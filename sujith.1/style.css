@@ -1,0 +1,154 @@
+.main-logo{
+    border-radius:100px;
+    height:66px;
+    width:66px;
+}
+
+.navbar{
+    background-color: black;
+    height:75px;
+}
+
+.navbar-nav{
+   color:#09ad2a;
+   font-size:15px;
+}
+
+.section-About{
+    padding-top:300px;
+    height:100vh;
+    width:205vh;
+    background-color:#09ad2a;
+    color:aliceblue;
+    text-align: center;
+    box-shadow: inset;
+
+}
+.section-Awards{
+    padding-top:300px;
+    height:100vh;
+    width:205vh;
+    background-color:aqua;
+    color:aliceblue;
+    text-align: center;
+    box-shadow: inset;
+    color:black;
+
+}
+.section-Stats{
+    padding-top:300px;
+    height:100vh;
+    width:205vh;
+    background-color:white;
+    color:aliceblue;
+    text-align: center;
+    box-shadow: inset;
+    color:black
+
+}
+.section-Career{
+    padding-top:300px;
+    height:100vh;
+    width:205vh;
+    background-color:orange;
+    color:aliceblue;
+    text-align: center;
+    box-shadow: inset;
+}
+
+.main-heading{
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:50px;
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: start;
+}
+
+#navItemone{
+    color:white;
+    text-decoration: underline;
+    font-size: 19px;
+}
+
+#navItemtwo{
+    color:white;
+    text-decoration: underline;
+    font-size: 19px;
+}
+
+#navItemthree{
+    color:white;
+    text-decoration: underline;
+    font-size: 19px;
+}
+
+#navItemfour{
+    color:white;
+    text-decoration: underline;
+    font-size: 19px;
+}
+
+.nav-link:hover{
+    color: #ffffff;
+}
+
+.nav-link::after{
+    color:aqua;
+    text-decoration: underline;
+}
+
+.highlight{
+    font-weight: bold;
+    color:blue;
+    text-decoration: underline;
+}
+
+.footer-section{
+    height:20vh;
+    width:203vh;
+    background-color: #0d2436;
+    color:#959ead;
+}
+
+button{
+    height:29px;
+    width:40px;
+    border-radius: 29px;
+    border-width: 0px;
+    background-color: gold;
+}
+
+.footer-section-mail-id{
+    color:gray;
+    font-size:19px;
+    font-weight: bold;
+}
+
+.copyright{
+    color: gray;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
+
+.carousel-inner{
+    height:90vh;
+    padding-top:40px;
+    background-size: cover;
+
+}
+
+.card-container{
+    background-color: black;
+    height:100vh;
+    width:203vh;
+    padding-top: 60px;
+    background-size: cover;
+}
